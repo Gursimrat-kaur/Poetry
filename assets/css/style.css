@@ -580,11 +580,15 @@ section {
   margin-left: 80px;
   font-weight: 700;
   margin-bottom: 15px;
+
   text-transform: uppercase;
 }
 
 #services .service-title a {
-  color: #111;
+  color: black;
+}
+#services .service-title a:hover{
+  color: skyblue;
 }
 
 #services .service-description {
